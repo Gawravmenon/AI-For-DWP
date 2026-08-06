@@ -1,0 +1,2 @@
+Team:
+After the Windows 11 upgrade, the old VPN app was removed and the new one did not reinstall because the check missed it. We cleared the leftover VPN entries, forced a sync, installed the new client, applied the split-tunnel setup, and confirmed access to all internal subnets. No data was lost. If you see this again, contact the service desk.

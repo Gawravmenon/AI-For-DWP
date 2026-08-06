@@ -1,0 +1,2 @@
+Executive:
+Your access and data are safe. After a Windows 11 upgrade, the old private network app was removed and the replacement did not reinstall because the check missed it. We cleared the leftover settings, forced a recheck, installed the new app, applied the routing setup, and confirmed access to all internal networks. No data was lost. No action is needed.
