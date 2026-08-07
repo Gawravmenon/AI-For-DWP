@@ -62,7 +62,9 @@ Perform steps in order. Each step is one concrete action.
 
 | Step | Action | Expected Result |
 |------|--------|-----------------|
-| 1 | Open browser to `https://portal.azure.com` and sign in with your engineering account. | Azure Portal home page loads successfully. |
+| 1 | Open browser to `https://portal.azure.com` and sign in with your engineering account. | Azure Portal Review the Verification section you just wrote.i see the steps are very generic not followable by a junior engineer. rewrite it with specific portal or console location . Do the similar for log location also.
+Review the roll back section. A user must be able to execute it in under 3 minutes without any guidance. Ensure that the roll back instruction can fit this also rewrite the instructions with specific portal or console and log locations.
+Add a version header to the top of the runbook with these fields: Title, Version (1.0), Date (07/08/2026), Author (Sathishbabu), reviewed (self), status (draft), change (initial version from RCA).home page loads successfully. |
 | 2 | In the top search bar, enter `Host pools` and open **Azure Virtual Desktop | Host pools**. | The Host pools list page opens. |
 | 3 | Select host pool `POOL-FIN-01`. | `POOL-FIN-01` overview page opens. |
 | 4 | In the left menu of `POOL-FIN-01`, select **Session hosts**. | Session host grid is displayed. |

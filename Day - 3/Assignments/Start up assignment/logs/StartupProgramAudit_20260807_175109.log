@@ -1,0 +1,10 @@
+[2026-08-07 17:51:09] [INFO] Run started. DryRun=True, OlderThanDays=0, Cutoff=08/07/2026 17:51:09
+[2026-08-07 17:51:09] [INFO] Scanning startup path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp
+[2026-08-07 17:51:09] [ACTION] [DryRun] Would remove from startup: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp\aw-qt.lnk
+[2026-08-07 17:51:09] [ACTION] [DryRun] Would remove from startup: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp\desktop.ini
+[2026-08-07 17:51:09] [INFO] Scanning startup path: C:\Users\labuser\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+[2026-08-07 17:51:09] [ACTION] [DryRun] Would remove from startup: C:\Users\labuser\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\desktop.ini
+[2026-08-07 17:51:09] [SUMMARY] Run summary:
+[2026-08-07 17:51:09] [SUMMARY] StartupPathsChecked=2, StartupPathsMissing=0
+[2026-08-07 17:51:09] [SUMMARY] FilesScanned=3, FilesOlderThanCutoff=3, FilesSkippedByAge=0
+[2026-08-07 17:51:09] [SUMMARY] FilesDryRunListed=3, FilesMovedToQuarantine=0, FilesSkippedLocked=0, FileErrors=0

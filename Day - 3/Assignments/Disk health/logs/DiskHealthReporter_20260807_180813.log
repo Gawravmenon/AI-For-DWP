@@ -1,0 +1,11 @@
+﻿2026-08-07 18:08:19 [INFO] Disk Health Report:
+2026-08-07 18:08:19 [INFO] Disk: Msft Virtual Disk | Health: Healthy | OpStatus: OK | Media: Unspecified | SizeGB: 16
+2026-08-07 18:08:19 [INFO] Disk: Msft Virtual Disk | Health: Healthy | OpStatus: OK | Media: Unspecified | SizeGB: 30
+2026-08-07 18:08:19 [INFO] Volume Capacity Report:
+2026-08-07 18:08:19 [INFO] Volume:  | FS: NTFS | Health: Healthy | SizeGB: 0.44 | FreeGB: 0.42
+2026-08-07 18:08:19 [INFO] Volume: D | FS: NTFS | Health: Healthy | SizeGB: 16 | FreeGB: 14.57
+2026-08-07 18:08:19 [INFO] Volume: C | FS: NTFS | Health: Healthy | SizeGB: 29.45 | FreeGB: 13.93
+2026-08-07 18:08:19 [INFO] Optimize Schedule: State=Ready, LastRun=8/3/2026 8:02:02 AM, LastResult=0, NextRun=
+2026-08-07 18:08:19 [INFO] Important: This script never runs defragmentation or optimize actions.
+2026-08-07 18:08:19 [INFO] File age filter: older than 0 day(s); cutoff 08/07/2026 18:08:19
+2026-08-07 18:08:19 [ERROR] Unhandled script error. Cannot bind argument to parameter 'Records' because it is an empty collection.

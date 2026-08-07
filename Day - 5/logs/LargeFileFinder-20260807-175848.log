@@ -1,0 +1,5 @@
+2026-08-07 17:58:48 [INFO] Scan started. ThresholdMB=0.01, OlderThanDays=0, DryRun=True, Execute=False
+2026-08-07 17:58:48 [INFO] Scanning path: .\Day - 5
+2026-08-07 17:58:48 [INFO] Dry run candidate: C:\Users\labuser\Documents\Training\Day - 5\Large-File-Finder.ps1
+2026-08-07 17:58:48 [INFO] Dry run candidate: C:\Users\labuser\Documents\Training\Day - 5\Runbook-AVD-Session-Disconnects-POOL-FIN-01.md
+2026-08-07 17:58:48 [INFO] Manifest written: C:\ProgramData\DWP\LargeFileRollback\manifest-20260807-175848.json

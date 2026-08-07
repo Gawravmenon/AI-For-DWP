@@ -1,0 +1,131 @@
+﻿2026-08-07 18:08:29 [INFO] Disk Health Report:
+2026-08-07 18:08:29 [INFO] Disk: Msft Virtual Disk | Health: Healthy | OpStatus: OK | Media: Unspecified | SizeGB: 16
+2026-08-07 18:08:29 [INFO] Disk: Msft Virtual Disk | Health: Healthy | OpStatus: OK | Media: Unspecified | SizeGB: 30
+2026-08-07 18:08:29 [INFO] Volume Capacity Report:
+2026-08-07 18:08:29 [INFO] Volume:  | FS: NTFS | Health: Healthy | SizeGB: 0.44 | FreeGB: 0.42
+2026-08-07 18:08:29 [INFO] Volume: D | FS: NTFS | Health: Healthy | SizeGB: 16 | FreeGB: 14.57
+2026-08-07 18:08:29 [INFO] Volume: C | FS: NTFS | Health: Healthy | SizeGB: 29.45 | FreeGB: 13.93
+2026-08-07 18:08:29 [INFO] Optimize Schedule: State=Ready, LastRun=8/3/2026 8:02:02 AM, LastResult=0, NextRun=
+2026-08-07 18:08:29 [INFO] Important: This script never runs defragmentation or optimize actions.
+2026-08-07 18:08:29 [INFO] File age filter: older than 0 day(s); cutoff 08/07/2026 18:08:29
+2026-08-07 18:08:30 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\Personal-AI-Usage-Charter-DWP-Desktop-Endpoint.md'.
+2026-08-07 18:08:30 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\prompt-library.md'.
+2026-08-07 18:08:30 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\.git\COMMIT_EDITMSG'.
+2026-08-07 18:08:30 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\.git\config'.
+2026-08-07 18:08:30 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\.git\description'.
+2026-08-07 18:08:30 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\.git\HEAD'.
+2026-08-07 18:08:30 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\.git\index'.
+2026-08-07 18:08:30 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\.git\hooks\applypatch-msg.sample'.
+2026-08-07 18:08:30 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\.git\hooks\commit-msg.sample'.
+2026-08-07 18:08:30 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\.git\hooks\fsmonitor-watchman.sample'.
+2026-08-07 18:08:30 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\.git\hooks\post-update.sample'.
+2026-08-07 18:08:30 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\.git\hooks\pre-applypatch.sample'.
+2026-08-07 18:08:30 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\.git\hooks\pre-commit.sample'.
+2026-08-07 18:08:30 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\.git\hooks\pre-merge-commit.sample'.
+2026-08-07 18:08:30 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\.git\hooks\pre-push.sample'.
+2026-08-07 18:08:30 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\.git\hooks\pre-rebase.sample'.
+2026-08-07 18:08:30 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\.git\hooks\pre-receive.sample'.
+2026-08-07 18:08:30 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\.git\hooks\prepare-commit-msg.sample'.
+2026-08-07 18:08:30 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\.git\hooks\push-to-checkout.sample'.
+2026-08-07 18:08:30 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\.git\hooks\sendemail-validate.sample'.
+2026-08-07 18:08:30 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\.git\hooks\update.sample'.
+2026-08-07 18:08:30 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\.git\info\exclude'.
+2026-08-07 18:08:30 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\.git\logs\HEAD'.
+2026-08-07 18:08:30 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\.git\logs\refs\heads\main'.
+2026-08-07 18:08:30 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\.git\logs\refs\remotes\origin\main'.
+2026-08-07 18:08:30 [WARN] Skipped locked file 'C:\Users\labuser\Documents\Training\.git\objects\04\919004c14e7ddc9fb71c748f143108bfea3aa6'.
+2026-08-07 18:08:30 [WARN] Skipped locked file 'C:\Users\labuser\Documents\Training\.git\objects\0a\3cd5f8be84a4ba3a701959acbd195b6514edfb'.
+2026-08-07 18:08:30 [WARN] Skipped locked file 'C:\Users\labuser\Documents\Training\.git\objects\13\e56ba7d636d89255dc652c93abd79027504248'.
+2026-08-07 18:08:30 [WARN] Skipped locked file 'C:\Users\labuser\Documents\Training\.git\objects\14\790b707df4bee8024da4daf9895a052b6462d5'.
+2026-08-07 18:08:30 [WARN] Skipped locked file 'C:\Users\labuser\Documents\Training\.git\objects\1f\a032e2aa28f43672367e44a3ce867c782fba15'.
+2026-08-07 18:08:30 [WARN] Skipped locked file 'C:\Users\labuser\Documents\Training\.git\objects\24\7a2044d24e56a316ae017ea4e6760b6279bd8e'.
+2026-08-07 18:08:30 [WARN] Skipped locked file 'C:\Users\labuser\Documents\Training\.git\objects\29\fb0cf1ae87ec73db147a223eb3b20f97df1b78'.
+2026-08-07 18:08:30 [WARN] Skipped locked file 'C:\Users\labuser\Documents\Training\.git\objects\2f\13ae914a60b3d50dcab5f4a4c7c428f56e8297'.
+2026-08-07 18:08:31 [WARN] Skipped locked file 'C:\Users\labuser\Documents\Training\.git\objects\40\3c73d0c31519227b3bdfe4b2dc7bda08f72b5a'.
+2026-08-07 18:08:31 [WARN] Skipped locked file 'C:\Users\labuser\Documents\Training\.git\objects\44\e8ca11f281f71a2fece6bd19fdee60b3d1258e'.
+2026-08-07 18:08:31 [WARN] Skipped locked file 'C:\Users\labuser\Documents\Training\.git\objects\46\cba49f385ae386d1cc599c20f7e3588c70937a'.
+2026-08-07 18:08:31 [WARN] Skipped locked file 'C:\Users\labuser\Documents\Training\.git\objects\4a\27c55c9668df62883720bf41a97e0bd2900f45'.
+2026-08-07 18:08:31 [WARN] Skipped locked file 'C:\Users\labuser\Documents\Training\.git\objects\50\2a642324814aac518b3a16151c7344aec4e7ce'.
+2026-08-07 18:08:31 [WARN] Skipped locked file 'C:\Users\labuser\Documents\Training\.git\objects\54\bc162d50524475c7b2d249d89d3e26627ea6c9'.
+2026-08-07 18:08:31 [WARN] Skipped locked file 'C:\Users\labuser\Documents\Training\.git\objects\55\df443b8183f3baa67727a5c5edb67f2cf62ecd'.
+2026-08-07 18:08:31 [WARN] Skipped locked file 'C:\Users\labuser\Documents\Training\.git\objects\5b\8d3f8aede4e7be614a469a1a5462244631cbb9'.
+2026-08-07 18:08:31 [WARN] Skipped locked file 'C:\Users\labuser\Documents\Training\.git\objects\60\8d939cf4d051919b6b0ae755205ea74b91eac3'.
+2026-08-07 18:08:31 [WARN] Skipped locked file 'C:\Users\labuser\Documents\Training\.git\objects\63\ad710139f82a6d536adf519bfa3bdcbb815ab5'.
+2026-08-07 18:08:31 [WARN] Skipped locked file 'C:\Users\labuser\Documents\Training\.git\objects\64\4ffe1152319d56adfd3ffee101097e035bdd72'.
+2026-08-07 18:08:31 [WARN] Skipped locked file 'C:\Users\labuser\Documents\Training\.git\objects\69\4369be655f4edd11d9fd7e6023092d3382b602'.
+2026-08-07 18:08:31 [WARN] Skipped locked file 'C:\Users\labuser\Documents\Training\.git\objects\69\e4044c812870b66e6bee1330197a0addf16fe0'.
+2026-08-07 18:08:31 [WARN] Skipped locked file 'C:\Users\labuser\Documents\Training\.git\objects\71\7b08e1cdd02f371d783fb443d40436cd7e9afb'.
+2026-08-07 18:08:31 [WARN] Skipped locked file 'C:\Users\labuser\Documents\Training\.git\objects\74\add6c70269681c4bfb3b884055050c74ea81b8'.
+2026-08-07 18:08:31 [WARN] Skipped locked file 'C:\Users\labuser\Documents\Training\.git\objects\7d\b84e78d7b5431ed9c9ef5eb83a095e7a6feb5a'.
+2026-08-07 18:08:31 [WARN] Skipped locked file 'C:\Users\labuser\Documents\Training\.git\objects\7e\488845777bd19dbde8db75bfa749c479f71153'.
+2026-08-07 18:08:31 [WARN] Skipped locked file 'C:\Users\labuser\Documents\Training\.git\objects\8d\207a128f39d44a270166d2638850c5b5ae15f3'.
+2026-08-07 18:08:31 [WARN] Skipped locked file 'C:\Users\labuser\Documents\Training\.git\objects\91\f7b061c5ede9055b92612e3d6ab037e853316b'.
+2026-08-07 18:08:31 [WARN] Skipped locked file 'C:\Users\labuser\Documents\Training\.git\objects\94\92176617bae5742c98261d5058dc50e8b539b6'.
+2026-08-07 18:08:31 [WARN] Skipped locked file 'C:\Users\labuser\Documents\Training\.git\objects\a3\845990a1e3399c701ceb7a55182396ed1fbcea'.
+2026-08-07 18:08:31 [WARN] Skipped locked file 'C:\Users\labuser\Documents\Training\.git\objects\a5\28c8e0b27a69f7f246fab54d244a5eee048a98'.
+2026-08-07 18:08:31 [WARN] Skipped locked file 'C:\Users\labuser\Documents\Training\.git\objects\a6\76fe1af10b155d3151c5b33ee867e7062d7ccd'.
+2026-08-07 18:08:31 [WARN] Skipped locked file 'C:\Users\labuser\Documents\Training\.git\objects\a7\64200917ce64514ebc3c29ce6cc844566d272f'.
+2026-08-07 18:08:31 [WARN] Skipped locked file 'C:\Users\labuser\Documents\Training\.git\objects\aa\b1bffb63280d0a1f9ca01955faeead706c6190'.
+2026-08-07 18:08:31 [WARN] Skipped locked file 'C:\Users\labuser\Documents\Training\.git\objects\af\45a11c75b6ffe2b94db5bf1d010e8b5bd5e44e'.
+2026-08-07 18:08:31 [WARN] Skipped locked file 'C:\Users\labuser\Documents\Training\.git\objects\b8\68b7be73a905534c731c913be12b8619f29405'.
+2026-08-07 18:08:31 [WARN] Skipped locked file 'C:\Users\labuser\Documents\Training\.git\objects\b9\7dd608d6344a8882fc892b215054e4c073ce91'.
+2026-08-07 18:08:31 [WARN] Skipped locked file 'C:\Users\labuser\Documents\Training\.git\objects\bd\9460d17959954339ef2b19f6bd45784efdd1b5'.
+2026-08-07 18:08:31 [WARN] Skipped locked file 'C:\Users\labuser\Documents\Training\.git\objects\c6\ed3308c0cbce8057f7de220c1a2f7b59853552'.
+2026-08-07 18:08:31 [WARN] Skipped locked file 'C:\Users\labuser\Documents\Training\.git\objects\d1\9a427b9127e330b65267bee3b13ae208fefd4f'.
+2026-08-07 18:08:31 [WARN] Skipped locked file 'C:\Users\labuser\Documents\Training\.git\objects\d5\50d25c5fba8db814c1d761804786fe8c1706d3'.
+2026-08-07 18:08:31 [WARN] Skipped locked file 'C:\Users\labuser\Documents\Training\.git\objects\d5\d73bc706128826fa3e47b3ae9d460c53a56589'.
+2026-08-07 18:08:31 [WARN] Skipped locked file 'C:\Users\labuser\Documents\Training\.git\objects\d9\e8e655f2015f95946a6eba4492b16607327ade'.
+2026-08-07 18:08:31 [WARN] Skipped locked file 'C:\Users\labuser\Documents\Training\.git\objects\dd\f2674b24e7fc2f0111ac9c2ebb367494cf71e0'.
+2026-08-07 18:08:31 [WARN] Skipped locked file 'C:\Users\labuser\Documents\Training\.git\objects\e0\91a218dec876ae64050b5332362d602b7677b6'.
+2026-08-07 18:08:31 [WARN] Skipped locked file 'C:\Users\labuser\Documents\Training\.git\objects\e3\e505fb7f92229ee9f33ce59cd182248965cf62'.
+2026-08-07 18:08:31 [WARN] Skipped locked file 'C:\Users\labuser\Documents\Training\.git\objects\f0\3b49cd0d936ef4aa105f05dd5817ef52bcb4c6'.
+2026-08-07 18:08:31 [WARN] Skipped locked file 'C:\Users\labuser\Documents\Training\.git\objects\f5\40261a26972f01bc0edf8e82ccedc796957019'.
+2026-08-07 18:08:31 [WARN] Skipped locked file 'C:\Users\labuser\Documents\Training\.git\objects\f6\47b1f4874fb4cf1ab5bd46260914a4a7b2a30b'.
+2026-08-07 18:08:31 [WARN] Skipped locked file 'C:\Users\labuser\Documents\Training\.git\objects\fd\1290064dcdb78874431f9e7c1db5dc8287b44c'.
+2026-08-07 18:08:31 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\.git\refs\heads\main'.
+2026-08-07 18:08:31 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\.git\refs\remotes\origin\main'.
+2026-08-07 18:08:31 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\Day - 1\Triage-Summary-Issue-Outlook-Slow-Win11.md'.
+2026-08-07 18:08:31 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\Day - 1\Triage-Summary-Issue-Printer-3rdFloor.md'.
+2026-08-07 18:08:31 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\Day - 1\Triage-Summary-Issue-VDI-Cannot-Connect.md'.
+2026-08-07 18:08:31 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\Day - 2\Assignment -  Known Error & Closure notes Prompts.md'.
+2026-08-07 18:08:31 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\Day - 2\Closure-Note-MappedDrives-Win11.txt'.
+2026-08-07 18:08:32 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\Day - 2\Triage-Summary-T1001-BitLocker-RecoveryKey-Win11.md'.
+2026-08-07 18:08:32 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\Day - 2\Triage-Summary-T1002-SharedMailbox-PostMigration.md'.
+2026-08-07 18:08:32 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\Day - 2\Triage-Summary-T1003-AVD-SessionDisconnects.md'.
+2026-08-07 18:08:32 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\Day - 2\Triage-Summary-T1004-CompanyPortal-InstallFail-0x87D1041C.md'.
+2026-08-07 18:08:32 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\Day - 2\Triage-Summary-T1005-Teams-Audio-MeetingRoom.md'.
+2026-08-07 18:08:32 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\Day - 2\Triage-Summary-T1006-GeneralSlowness-PostWin11Upgrade.md'.
+2026-08-07 18:08:32 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\Day - 2\Triage-Summary-T1007-OneDrive-StuckProcessing-PostMigration.md'.
+2026-08-07 18:08:32 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\Day - 2\Triage-Summary-T1008-VPN-NoInternalAccess-PostWin11Upgrade-Engineer.md'.
+2026-08-07 18:08:32 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\Day - 2\Triage-Summary-T1008-VPN-NoInternalAccess-PostWin11Upgrade-Executive.md'.
+2026-08-07 18:08:32 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\Day - 2\Triage-Summary-T1008-VPN-NoInternalAccess-PostWin11Upgrade-Team.md'.
+2026-08-07 18:08:32 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\Day - 2\Triage-Summary-T1008-VPN-NoInternalAccess-PostWin11Upgrade.md'.
+2026-08-07 18:08:32 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\Day - 3\Endpoint-Health-Report.ps1'.
+2026-08-07 18:08:32 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\Day - 3\inherit.ps1'.
+2026-08-07 18:08:32 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\Day - 3\RCA-AccountLockout-jsmith-20260806.md'.
+2026-08-07 18:08:32 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\Day - 3\Temp-Cleanup-README.md'.
+2026-08-07 18:08:32 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\Day - 3\Temp-Cleanup.ps1'.
+2026-08-07 18:08:32 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\Day - 3\Assignments\Disk health\Disk-Health-Reporter.ps1'.
+2026-08-07 18:08:32 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\Day - 3\Assignments\Disk health\README-Disk-Health-Reporter.md'.
+2026-08-07 18:08:32 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\Day - 3\Assignments\Disk health\logs\DiskHealthReporter_20260807_180813.log'.
+2026-08-07 18:08:32 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\Day - 3\Assignments\large file finder\Large-File-Finder.ps1'.
+2026-08-07 18:08:32 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\Day - 3\Assignments\Start up assignment\README-Startup-Program-Audit.md'.
+2026-08-07 18:08:32 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\Day - 3\Assignments\Start up assignment\Startup-Program-Audit.ps1'.
+2026-08-07 18:08:32 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\Day - 3\Assignments\Start up assignment\logs\StartupProgramAudit_20260807_175109.log'.
+2026-08-07 18:08:32 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\Day - 4\AVD-Session-Disconnects-Evidence-Assessment.md'.
+2026-08-07 18:08:32 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\Day - 4\Closure-Note-AVD-BlackScreen-POOL-FIN-01-20260807.md'.
+2026-08-07 18:08:32 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\Day - 4\Closure-Note-LoginFailure-cthompson-20260807.md'.
+2026-08-07 18:08:32 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\Day - 4\EndUser-Communication-AVD-BlackScreen-20260807.md'.
+2026-08-07 18:08:32 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\Day - 4\EndUser-Communication-LoginFailure-cthompson-20260807.md'.
+2026-08-07 18:08:32 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\Day - 4\Hypothesis-LoginFailure-cthompson-20260807.md'.
+2026-08-07 18:08:32 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\Day - 4\Known-Error-AVD-BlackScreen-POOL-FIN-01-20260807.md'.
+2026-08-07 18:08:32 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\Day - 4\Known-Error-LoginFailure-cthompson-20260807.md'.
+2026-08-07 18:08:32 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\Day - 4\RCA-AVD-BlackScreen-POOL-FIN-01-20260807.md'.
+2026-08-07 18:08:32 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\Day - 4\RCA-AVD-Session-Disconnects-POOL-FIN-01-20240315.md'.
+2026-08-07 18:08:33 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\Day - 4\RCA-LoginFailure-cthompson-DESKTOP-FB022-20260807.md'.
+2026-08-07 18:08:33 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\Day - 4\Triage-AVD-BlackScreen-Incident-Hypothesis-20260807.md'.
+2026-08-07 18:08:33 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\Day - 5\L1-Self-Service-Remote-Desktop-Disconnects.md'.
+2026-08-07 18:08:33 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\Day - 5\Large-File-Finder.ps1'.
+2026-08-07 18:08:33 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\Day - 5\README-Large-File-Finder.md'.
+2026-08-07 18:08:33 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\Day - 5\Runbook-AVD-Session-Disconnects-POOL-FIN-01.md'.
+2026-08-07 18:08:33 [INFO] DRYRUN would delete 'C:\Users\labuser\Documents\Training\Day - 5\logs\LargeFileFinder-20260807-175848.log'.
