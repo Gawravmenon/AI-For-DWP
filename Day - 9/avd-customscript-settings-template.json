@@ -1,0 +1,6 @@
+{
+  "fileUris": [
+    "https://avdst490750914.blob.core.windows.net/scripts/install-avd-agent.ps1"
+  ],
+  "commandToExecute": "powershell -ExecutionPolicy Bypass -File install-avd-agent.ps1 -RegistrationToken <REGISTRATION_TOKEN_HERE>"
+}
