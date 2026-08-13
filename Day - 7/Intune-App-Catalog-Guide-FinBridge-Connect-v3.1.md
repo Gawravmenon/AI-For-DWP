@@ -20,8 +20,10 @@ Expected navigation path: Home > Apps > All apps > Add.
 Label-variance warning: In some tenants this appears as Apps > Windows apps, or the Add button appears inside a Windows-specific view. Verify the live navigation labels.
 
 3. Choose the correct app type.
+Correct option for this worked example (.intunewin): Windows app (Win32).
 Use these selection rules:
 For FinBridge Connect (.intunewin): select Windows app (Win32) (sometimes shown as Win32 app or Windows app (Win32)).
+Do not select Microsoft Store app (new), Web link, or Line-of-business app for this package type.
 For Microsoft Store applications: select Microsoft Store app (new) (or equivalent Store app label in your tenant).
 For a web link shortcut: select Web link.
 Label-variance warning: The exact names in the Select app type panel may differ. Confirm by description and package type, not label text alone.

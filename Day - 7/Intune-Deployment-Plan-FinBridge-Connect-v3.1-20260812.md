@@ -3,6 +3,8 @@
 Date created: 2026-08-12  
 Deployment deadline: 2026-09-02 (3 weeks)
 
+App catalog prerequisite: FinBridge Connect v3.1 must be created in Intune as Windows app (Win32) from the .intunewin package before ring assignments begin.
+
 ## 1. RING STRUCTURE
 
 Ring design is built to deliver Finance by end of week 1 while still preserving a controlled risk posture for the full 10,000-endpoint fleet.
