@@ -1,46 +1,36 @@
-# Partners Communication at Lunch
+# Floor 6 Incident Update — 14 August 2026
 
-Date: 14 August 2026
-Prepared by: Desktop Workplace Engineering, FinBridge
+## What Happened
 
-## What happened
-This morning, a significant number of colleagues on Floor 6 could not sign in, or had very slow sign-in.
+This morning, **three things went wrong** on Floor 6:
 
-At the same time, we received one serious report that Copilot showed a legal matter the person believed they should not see. We are treating that report as a potential confidentiality issue until proven otherwise.
+1. **Some colleagues couldn't log in to their computers**, or it took much longer than usual
+2. **A serious security concern**: One person reported that our AI assistant showed them a client file they shouldn't have access to
+3. **Some screen icons went missing** on a few computers
 
-We also received reports that some desktop shortcuts were missing for certain users.
+**Why it happened**: We made changes on Friday (a new application) and recently upgraded those computers. These changes likely triggered the problems.
 
-The timing points to one likely trigger: a new document application that was rolled out to Floor 6 on Friday, combined with recent upgrades of those devices.
+## What We're Doing Right Now
 
-## What is being done right now
-We are running this as a high-priority incident.
+**Treating this as urgent. Our team is working on three fronts:**
 
-For sign-in disruption:
-- We are isolating affected devices from the recent rollout group so we can reduce immediate impact.
-- We are prioritizing people who are fully blocked from work first.
-- We are checking affected and unaffected devices side by side to confirm exactly where the delay starts.
+- **Login issue**: Pulling the affected computers back from the recent changes to get people working again. Focusing first on people completely blocked.
+- **Security concern**: Treating this with highest priority. We're checking who actually has access to what, and keeping all evidence safe for investigation.
+- **Missing icons**: Finding out if they were moved or deleted, then restoring them properly so this doesn't happen again.
 
-For the Copilot report:
-- We have classified this as a security signal, not a routine support issue.
-- We are preserving evidence before making broad changes.
-- We are validating access records to confirm whether the information shown was properly authorized.
+## What We Still Need to Confirm
 
-For missing shortcuts:
-- We are checking whether items were moved or removed.
-- We are restoring access safely once the cause is confirmed, so the issue does not recur.
+Before we can say exactly what went wrong:
+- Whether the new application caused most of the login delays
+- Whether the security concern is a real access problem or a misunderstanding
+- Why the screen icons disappeared
 
-## What is still open
-We still need to complete evidence checks before we can state final root cause with certainty.
+## What Happens Next
 
-Open points:
-- Confirming the exact share of disruption caused by Friday's app rollout versus other factors.
-- Confirming whether the Copilot case was true unauthorized exposure or an access misunderstanding.
-- Confirming whether missing shortcuts were moved by profile changes or altered by recent updates.
+- You'll get short updates throughout the day with real progress
+- We're fixing the immediate problem (getting people working) while we dig into what actually went wrong
+- We don't know the exact timeline yet — we won't guess at a fix date until we understand the real cause
 
-## What partners should expect next
-- You will receive structured updates at defined checkpoints today.
-- We will continue to stabilize user impact first while evidence work continues in parallel.
-- We are not committing to a fixed resolution time yet, because that would risk setting false expectations before validation is complete.
+## Our Promise
 
-## Commitment
-Our focus is to protect client confidentiality, restore productivity quickly, and provide clear, honest updates with confirmed facts only.
+**Protect confidentiality. Restore work quickly. Tell you the truth.**

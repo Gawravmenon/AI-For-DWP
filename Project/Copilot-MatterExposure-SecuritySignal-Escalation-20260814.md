@@ -14,7 +14,3 @@
 
 ## Two-sentence escalation draft
 "We have a credible potential confidentiality incident: a Legal user reports Copilot surfaced a client matter outside expected access, so we are treating this as a security/privacy signal pending validation. Please open Security Incident triage now and preserve evidence (prompt/response, timestamp, user/device context, and relevant access/audit logs) before any remediation changes."
-
-## Pass/Fail marker for this exercise
-- Pass: Classify and route as a security signal with evidence preservation and incident governance.
-- Fail: Treat as a generic Copilot bug or close as "AI weirdness" without authorization and audit validation.
